@@ -1,12 +1,12 @@
 Project : node-generate-excel
 
-Add a user and generate an excel file of the collection in node.js
+Add a user in the database and generate an excel file out the data saved
 
 
-Install Dependencies / node_modules in backend folder for startup
+To install dependencies / node_modules in backend folder for startup :
 npm i
 
 
-To start the backend server
+To start the backend server :
 npm start
 
